@@ -1,6 +1,7 @@
 import pygame
 import random
 # Kijelző
+
 pygame.init()
 screen = pygame.display.set_mode((1920, 1080))
 done = False
